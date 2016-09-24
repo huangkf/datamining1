@@ -1,0 +1,11 @@
+package fptree;
+
+public class test {
+
+	public static void main(String[] args) {
+		String s="1015101052101230";
+		System.out.print(s.substring(0, 7));
+
+	}
+
+}

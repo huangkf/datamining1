@@ -1,0 +1,10 @@
+package fptree;
+
+public class test {
+
+	public static void main(String[] args) {
+		int s=Integer.parseInt("09");
+		System.out.print(s);
+	}
+
+}

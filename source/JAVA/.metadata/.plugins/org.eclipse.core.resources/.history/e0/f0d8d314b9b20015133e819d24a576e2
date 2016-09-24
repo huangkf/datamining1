@@ -1,0 +1,9 @@
+package fptree;
+
+public class test {
+
+	public static void main(String[] args) {
+		Integer.parseInt("01");
+	}
+
+}
